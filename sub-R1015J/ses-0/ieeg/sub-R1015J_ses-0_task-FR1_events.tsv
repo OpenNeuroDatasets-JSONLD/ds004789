@@ -62,7 +62,7 @@ onset	duration	sample	trial_type	response_time	stim_file	item_name	serialpos	lis
 449.234	1.62	1304589	WORD	n/a	wordpools/wordpool_EN.txt	BEE	12	2	[0, 0, 0]	n/a	FR1	0	R1015J
 450.854	0.0	1306209	DISTRACT_START	n/a	n/a	n/a	-999	2	[0, 0, 0]	n/a	FR1	0	R1015J
 450.854	0.016	1306209	START	n/a	n/a	n/a	-999	3	[-999, -999, -999]	n/a	FR1	0	R1015J
-450.87	9.132	1306225	PROB	9.132	n/a	n/a	-999	3	[1, 6, 1]	8	FR1	0	R1015J
+450.87	9.132	1306225	PROB	9.109	n/a	n/a	-999	3	[1, 6, 1]	8	FR1	0	R1015J
 460.002	50.825	1315357	PROB	50.825	n/a	n/a	-999	3	[7, 8, 7]	22	FR1	0	R1015J
 510.827	0.011	1366180	STOP	n/a	n/a	n/a	-999	3	[-999, -999, -999]	n/a	FR1	0	R1015J
 510.838	1.054	1366191	DISTRACT_END	n/a	n/a	n/a	-999	2	[0, 0, 0]	n/a	FR1	0	R1015J
@@ -86,7 +86,7 @@ onset	duration	sample	trial_type	response_time	stim_file	item_name	serialpos	lis
 664.981	1.619	1520329	WORD	n/a	wordpools/wordpool_EN.txt	WEED	12	3	[0, 0, 0]	n/a	FR1	0	R1015J
 666.6	0.001	1521947	DISTRACT_START	n/a	n/a	n/a	-999	3	[0, 0, 0]	n/a	FR1	0	R1015J
 666.601	0.016	1521948	START	n/a	n/a	n/a	-999	4	[-999, -999, -999]	n/a	FR1	0	R1015J
-666.617	7.345	1521964	PROB	7.345	n/a	n/a	-999	4	[1, 6, 6]	13	FR1	0	R1015J
+666.617	7.345	1521964	PROB	7.314	n/a	n/a	-999	4	[1, 6, 6]	13	FR1	0	R1015J
 673.962	16.561	1529309	PROB	16.561	n/a	n/a	-999	4	[4, 9, 2]	15	FR1	0	R1015J
 690.523	0.017	1545870	STOP	n/a	n/a	n/a	-999	4	[-999, -999, -999]	n/a	FR1	0	R1015J
 690.54	1.504	1545887	DISTRACT_END	n/a	n/a	n/a	-999	3	[0, 0, 0]	n/a	FR1	0	R1015J
@@ -110,7 +110,7 @@ onset	duration	sample	trial_type	response_time	stim_file	item_name	serialpos	lis
 828.89	1.619	1684232	WORD	n/a	wordpools/wordpool_EN.txt	COIN	12	4	[0, 0, 0]	n/a	FR1	0	R1015J
 830.509	0.001	1685851	DISTRACT_START	n/a	n/a	n/a	-999	4	[0, 0, 0]	n/a	FR1	0	R1015J
 830.51	0.016	1685852	START	n/a	n/a	n/a	-999	5	[-999, -999, -999]	n/a	FR1	0	R1015J
-830.526	19.95	1685868	PROB	19.95	n/a	n/a	-999	5	[5, 2, 6]	13	FR1	0	R1015J
+830.526	19.95	1685868	PROB	19.917	n/a	n/a	-999	5	[5, 2, 6]	13	FR1	0	R1015J
 850.476	57.055	1705817	PROB	57.055	n/a	n/a	-999	5	[9, 5, 3]	17	FR1	0	R1015J
 907.531	0.008	1762870	STOP	n/a	n/a	n/a	-999	5	[-999, -999, -999]	n/a	FR1	0	R1015J
 907.539	1.186	1762878	DISTRACT_END	n/a	n/a	n/a	-999	4	[0, 0, 0]	n/a	FR1	0	R1015J

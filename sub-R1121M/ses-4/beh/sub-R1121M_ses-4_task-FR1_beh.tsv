@@ -21,7 +21,7 @@ onset	duration	sample	trial_type	response_time	stim_file	item_name	serialpos	lis
 65.466	0.013	162168	STOP	n/a	n/a	n/a	-999	1	[-999, -999, -999]	n/a	FR1	4	R1121M
 65.479	1.085	162175	DISTRACT_END	n/a	n/a	n/a	-999	10	[0, 0, 0]	n/a	FR1	4	R1121M
 66.564	9.102	162717	REC_START	n/a	n/a	n/a	-999	10	[0, 0, 0]	n/a	FR1	4	R1121M
-75.666	20.909	167268	REC_WORD_VV	20.909	n/a	<>	-999	10	[0, 0, 0]	n/a	FR1	4	R1121M
+75.666	20.909	167268	REC_WORD_VV	9.102	n/a	<>	-999	10	[0, 0, 0]	n/a	FR1	4	R1121M
 96.575	6.795	177722	REC_END	n/a	n/a	n/a	-999	10	[0, 0, 0]	n/a	FR1	4	R1121M
 103.37	0.0	181119	TRIAL	n/a	n/a	n/a	-999	11	[0, 0, 0]	n/a	FR1	4	R1121M
 103.37	10.428	181119	COUNTDOWN_START	n/a	n/a	n/a	-999	11	[0, 0, 0]	n/a	FR1	4	R1121M
@@ -45,8 +45,8 @@ onset	duration	sample	trial_type	response_time	stim_file	item_name	serialpos	lis
 199.394	0.011	229127	STOP	n/a	n/a	n/a	-999	2	[-999, -999, -999]	n/a	FR1	4	R1121M
 199.405	1.167	229132	DISTRACT_END	n/a	n/a	n/a	-999	11	[0, 0, 0]	n/a	FR1	4	R1121M
 200.572	3.825	229716	REC_START	n/a	n/a	n/a	-999	11	[0, 0, 0]	n/a	FR1	4	R1121M
-204.397	14.56	231628	REC_WORD	14.56	n/a	BROOM	-999	11	[0, 0, 0]	n/a	FR1	4	R1121M
-218.957	11.63	238908	REC_WORD	11.63	n/a	AXE	-999	11	[0, 0, 0]	n/a	FR1	4	R1121M
+204.397	14.56	231628	REC_WORD	3.825	n/a	BROOM	-999	11	[0, 0, 0]	n/a	FR1	4	R1121M
+218.957	11.63	238908	REC_WORD	18.385	n/a	AXE	-999	11	[0, 0, 0]	n/a	FR1	4	R1121M
 230.587	13.076	244722	REC_END	n/a	n/a	n/a	-999	11	[0, 0, 0]	n/a	FR1	4	R1121M
 243.663	0.0	251260	TRIAL	n/a	n/a	n/a	-999	12	[0, 0, 0]	n/a	FR1	4	R1121M
 243.663	10.428	251260	COUNTDOWN_START	n/a	n/a	n/a	-999	12	[0, 0, 0]	n/a	FR1	4	R1121M
@@ -70,9 +70,9 @@ onset	duration	sample	trial_type	response_time	stim_file	item_name	serialpos	lis
 337.618	0.013	298233	STOP	n/a	n/a	n/a	-999	3	[-999, -999, -999]	n/a	FR1	4	R1121M
 337.631	1.168	298240	DISTRACT_END	n/a	n/a	n/a	-999	12	[0, 0, 0]	n/a	FR1	4	R1121M
 338.799	18.947	298824	REC_START	n/a	n/a	n/a	-999	12	[0, 0, 0]	n/a	FR1	4	R1121M
-357.746	4.508	308296	REC_WORD	4.508	n/a	STORE	-999	12	[0, 0, 0]	n/a	FR1	4	R1121M
-362.254	1.505	310550	REC_WORD	1.505	n/a	POND	-999	12	[0, 0, 0]	n/a	FR1	4	R1121M
-363.759	5.051	311303	REC_WORD	5.051	n/a	DUCK	-999	12	[0, 0, 0]	n/a	FR1	4	R1121M
+357.746	4.508	308296	REC_WORD	18.947	n/a	STORE	-999	12	[0, 0, 0]	n/a	FR1	4	R1121M
+362.254	1.505	310550	REC_WORD	23.455	n/a	POND	-999	12	[0, 0, 0]	n/a	FR1	4	R1121M
+363.759	5.051	311303	REC_WORD	24.96	n/a	DUCK	-999	12	[0, 0, 0]	n/a	FR1	4	R1121M
 368.81	6.378	313828	REC_END	n/a	n/a	n/a	-999	12	[0, 0, 0]	n/a	FR1	4	R1121M
 375.188	0.001	317017	COUNTDOWN_START	n/a	n/a	n/a	-999	13	[0, 0, 0]	n/a	FR1	4	R1121M
 375.189	10.427	317017	TRIAL	n/a	n/a	n/a	-999	13	[0, 0, 0]	n/a	FR1	4	R1121M
@@ -96,5 +96,5 @@ onset	duration	sample	trial_type	response_time	stim_file	item_name	serialpos	lis
 473.705	0.019	366271	STOP	n/a	n/a	n/a	-999	4	[-999, -999, -999]	n/a	FR1	4	R1121M
 473.724	1.201	366281	DISTRACT_END	n/a	n/a	n/a	-999	13	[0, 0, 0]	n/a	FR1	4	R1121M
 474.925	29.0	366881	REC_START	n/a	n/a	n/a	-999	13	[0, 0, 0]	n/a	FR1	4	R1121M
-503.925	1.011	381380	REC_WORD_VV	1.011	n/a	<>	-999	13	[0, 0, 0]	n/a	FR1	4	R1121M
+503.925	1.011	381380	REC_WORD_VV	29.0	n/a	<>	-999	13	[0, 0, 0]	n/a	FR1	4	R1121M
 504.936	0.0	381885	REC_END	n/a	n/a	n/a	-999	13	[0, 0, 0]	n/a	FR1	4	R1121M
