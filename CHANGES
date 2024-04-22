@@ -1,3 +1,5 @@
+3.1.0 2024-04-22
+  - More informative event duration values for trial types with well defined durations.  Added collaborator acknowledgements and grant funding.
 3.0.1 2024-04-12
   - Properly resolved retrieval event sample issues.  Fixed errors with response times for recall and math events.  Added wordpools for all sessions. 
 3.0.0 2024-04-10
